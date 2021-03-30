@@ -1,0 +1,1 @@
+Measuring network polarization using a three fold methdology based on opinions.
